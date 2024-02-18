@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acdc2110-5a68-404b-828c-ae9195767edd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animated-div/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animation-block/animation-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/animation-block/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/button/button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/button/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/control-component/control-component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/control-component/control-types/select-component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/control-component/control-types/switch-component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/control-component/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/selected-box/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/selected-box/selected-box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/header/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/sidebar/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/sidebar/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/main-page/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/main-page/main-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/preview-page/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/preview-page/preview-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/controls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cXRYVO85CAUbUYHn7XT6HEPvDe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dmitrijsulzenko/work/siter-test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/dmitrijsulzenko/work/siter-test/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acdc2110-5a68-404b-828c-ae9195767edd" name="Changes" comment="" />
+      <created>1708255984419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708255984419</updated>
+      <workItem from="1708255985644" duration="31379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

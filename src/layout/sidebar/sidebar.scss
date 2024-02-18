@@ -1,0 +1,18 @@
+.sidebar {
+  flex-shrink: 0;
+  height: 100vw;
+  padding: 15px 15px 15px 13px;
+  background: white;
+  &.disabled {
+    pointer-events: none !important;
+    .sidebar_grid-container {
+      opacity: 0.4;
+    }
+  }
+  &_grid-container {
+    display: grid;
+    grid-template-columns: 1fr 118px auto;
+    gap: 16px 10px;
+
+  }
+}
